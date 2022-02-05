@@ -1,21 +1,22 @@
-# Dimension
+# YaDimension
 
-Dimension is a single page and responsive site template. It is a port of [HTML5 UP's Dimension theme](https://html5up.net/uploads/demos/dimension/).
+YaDimension is a single page and responsive site template. It is a port of [HTML5 UP's Dimension theme](https://html5up.net/uploads/demos/dimension/).
 
-![Dimension Theme screenshot](https://raw.githubusercontent.com/sethmacleod/dimension/master/images/screenshot.png)
+![Dimension Theme screenshot](https://raw.githubusercontent.com/ericzolf/yadimension/master/images/screenshot.png)
 
 There are more similar themes but the original one from sethmacleod disappeared, and so I saved here the last version I could find.
+And because it's not very different from the other ones, it's Yet Another Dimension...
 
 ## Installation
 
 Run the following commands inside your Hugo site folder:
 
-    $ git clone https://github.com/sethmacleod/dimension.git themes/dimension
+    $ git clone https://github.com/ericzolf/yadimension.git themes/yadimension
 
 Alternatively use git submodules in order to have a way to easily update the theme from the source in case you have your site in git as well.
 For this run the following commands inside your Hugo site folder:
 
-    $ git submodule add https://github.com/sethmacleod/dimension.git themes/dimension
+    $ git submodule add https://github.com/ericzolf/yadimension.git themes/yadimension
 
 If you checkout your site from a repository which has this added as a submodule (e.g. if you are using CI to deploy), execute following commands or put them into a initgit.sh file in your repository which can be executed by your CI:
 
